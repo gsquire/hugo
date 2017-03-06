@@ -1,9 +1,7 @@
 baseURL = "https://gsquire.github.io/static/"
 languageCode = "en-us"
 title = "Garrett's Blog"
-theme = "hugo-lithium-theme"
+theme = "hemingway2"
 
-[params.logo]
-url = "black.png"
-width = 30
-height = 30
+[params.highlight]
+languages = ["go", "rust", "shell"]
