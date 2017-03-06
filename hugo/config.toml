@@ -1,4 +1,4 @@
-baseurl = "https://gsquire.github.io/static/"
+baseURL = "https://gsquire.github.io/static/"
 languageCode = "en-us"
 title = "Garrett's Blog"
 theme = "hugo-lithium-theme"
