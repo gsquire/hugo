@@ -1,7 +1,17 @@
 baseURL = "https://gsquire.github.io/static/"
 languageCode = "en-us"
 title = "Garrett's Blog"
-theme = "hemingway2"
+theme = "hugo-dusk"
 
-[params.highlight]
-languages = ["go", "rust", "shell"]
+[params]
+github = "gsquire"
+twitter = "garrettsquire"
+email = "garrettsquire@gmail.com"
+
+[params.colors]
+background = "#101010"
+#main = "#99cc66"
+main = "#5f8c96"
+text = "#eee8cd"
+code-quote-bg = "#1d1f21"
+copyright = "#404040"
