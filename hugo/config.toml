@@ -10,7 +10,6 @@ email = "garrettsquire@gmail.com"
 
 [params.colors]
 background = "#101010"
-#main = "#99cc66"
 main = "#5f8c96"
 text = "#eee8cd"
 code-quote-bg = "#1d1f21"
