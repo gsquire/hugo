@@ -1,7 +1,6 @@
 +++
 title = "Rust In 2018"
 date = "2018-01-10T19:05:55-08:00"
-draft = true
 
 +++
 
