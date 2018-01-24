@@ -1,7 +1,6 @@
 ---
 title: "Rust Redis Modules"
 date: 2018-01-21T19:23:57-08:00
-draft: true
 ---
 
 # Redis Modules with Rust
