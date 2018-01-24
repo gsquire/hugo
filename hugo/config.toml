@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Garrett's Blog"
 theme = "hugo-dusk"
 
+pygmentsStyle = "native"
+pygmentsCodeFences = true
+
 [params]
 github = "gsquire"
 twitter = "garrettsquire"
@@ -11,6 +14,6 @@ email = "garrettsquire@gmail.com"
 [params.colors]
 background = "#101010"
 main = "#5f8c96"
-text = "#eee8cd"
+text = "#c0c0c0"
 code-quote-bg = "#1d1f21"
 copyright = "#404040"
