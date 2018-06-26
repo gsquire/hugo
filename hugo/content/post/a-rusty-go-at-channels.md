@@ -1,7 +1,6 @@
 ---
 title: "A Rusty Go at Channels"
 date: 2018-06-24T10:44:31-07:00
-draft: true
 ---
 
 ## Channels
