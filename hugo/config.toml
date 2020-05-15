@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 [params]
 github = "gsquire"
 twitter = "garrettsquire"
-email = "garrettsquire@gmail.com"
+email = "mail@garrettsquire.com"
 
 [params.colors]
 background = "#101010"
