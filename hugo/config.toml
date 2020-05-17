@@ -1,19 +1,31 @@
 baseURL = "https://gsquire.github.io/static/"
 languageCode = "en-us"
 title = "Garrett's Blog"
-theme = "hugo-dusk"
+theme = "ezhil"
 
-pygmentsStyle = "native"
-pygmentsCodeFences = true
+pygmentsstyle = "perldoc"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 3
+summaryLength = 20
 
 [params]
-github = "gsquire"
-twitter = "garrettsquire"
-email = "mail@garrettsquire.com"
+subtitle = "A place for my thoughts on software development"
+featherIconsCDN = true
+mode = "auto"
 
-[params.colors]
-background = "#101010"
-main = "#5f8c96"
-text = "#c0c0c0"
-code-quote-bg = "#1d1f21"
-copyright = "#404040"
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gsquire"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/garrettsquire"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:mail@garrettsquire.com"
